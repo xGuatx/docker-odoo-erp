@@ -1,0 +1,29 @@
+# Odoo data
+addons/
+filestore/
+sessions/
+*.db
+*.sql
+
+# Docker volumes
+volumes/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+.claude.json
